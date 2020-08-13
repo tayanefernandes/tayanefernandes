@@ -2,7 +2,7 @@
 
 My name is Tayane Fernandes and I'm from from Brazil.
 
-I've been working as Software, always valuing code quality and constantly learning and improving myself.
+I've been working as a Software Developer, always valuing code quality and constantly learning and improving myself.
 I am really interested in front-end development.
 
 In my free time I like to play videogame, to watch movies and series, to listen to music and to photograph.
