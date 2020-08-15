@@ -1,11 +1,14 @@
-### Hi there 😊
+<img src="tay_github.png"/>
 
-My name is Tayane Fernandes and I'm from from Brazil.
+<h2> Hi there, I'm Tayane Fernandes! <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="50"></h2>
 
-I've been working as a Software Developer, always valuing code quality and constantly learning and improving myself.
-I am really interested in front-end development.
+I'm a Software Developer from Brazil and I'm a big fan of front end development! 👩🏻‍💻
 
-In my free time I like to play videogame, to watch movies and series, to listen to music and to photograph.
+In my free time I like to play videogame, to watch movies and series, to listen to music and to photograph! 📸
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tayanefernandes&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tayanefernandes)](https://twitter.com/tayanefernandes)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tayanefernandes)](https://www.linkedin.com/in/tayanefernandes)
